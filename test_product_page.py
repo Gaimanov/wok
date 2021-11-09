@@ -3,7 +3,6 @@ import allure
 from pages.login_page import LoginPage
 from pages.product_page import ProductPage
 from pages.product_page import ProductPageLocators
-from pages.base_page import BasePage
 import time
 
 
