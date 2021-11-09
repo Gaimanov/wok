@@ -1,0 +1,6 @@
+name = input()
+name1 = input()
+name2 = input()
+print(name)
+print(name1)
+print(name2)
